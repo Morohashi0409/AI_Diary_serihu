@@ -20,7 +20,7 @@ import datetime
 
 from requests.models import stream_decode_response_unicode
 # Initialize with a Project Key
-deta = Deta("c0g0sd7g_Vb2R7o4AdhCZs8YAqudFHzcfxs4xihUh")
+deta = Deta("**********************")
 
 # This how to connect to or create a database.
 db = deta.Base("simple_db")

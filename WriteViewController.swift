@@ -347,7 +347,7 @@ class WriteViewController: UIViewController,
         
 
         let base64String = CpngData!.base64EncodedString(options: .lineLength64Characters)
-       let listUrl = "http://inpca0.deta.dev/items/"
+       let listUrl = "http://*****************"
         let realm = try! Realm()
 
 

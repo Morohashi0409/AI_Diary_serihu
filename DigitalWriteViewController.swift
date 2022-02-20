@@ -236,7 +236,7 @@ class DigitalWriteViewController: UIViewController,
             
             //print(base64String)
 
-           let listUrl = "http://inpca0.deta.dev/digital/"
+           let listUrl = "http://***********"
             let realm = try! Realm()
 
 

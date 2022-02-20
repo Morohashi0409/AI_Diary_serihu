@@ -5,4 +5,4 @@
 日記に書いた内容を文字認識・感情分析し、ポジティブであれば、褒めるようなセリフを返し、逆にネガティブであれば励ますようなセリフを返す仕組みになっています。
  
 # DEMO
-![image](https://user-images.githubusercontent.com/78011541/154833042-09a53c66-a7a4-410d-a155-9d8fee0aa366.PNG)
+![日記記入画面](https://user-images.githubusercontent.com/78011541/154833456-ca97455a-4633-4014-a41a-987556f9cf63.jpg)

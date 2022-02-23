@@ -1,6 +1,8 @@
 # Serihu"感情分析日記アプリ"
- 
+deploygateにてβ版を公開しました。
+ ![QR](https://github.com/Morohashi0409/AI_Diary_serihu/issues/4)
  https://dply.me/vfon1n
+ 気になった方はインストールしてみてください。
  
 私が作成したアプリは、AIによる感情分析して、フィードバックを返すことができる日記アプリです。
 

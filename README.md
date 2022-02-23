@@ -1,6 +1,6 @@
 # Serihu"感情分析日記アプリ"
 deploygateにてβ版を公開しました。
- ![QR](https://github.com/Morohashi0409/AI_Diary_serihu/issues/4)
+ ![QR](https://user-images.githubusercontent.com/78011541/155277777-8f07f254-d95d-406e-8e5a-4285895afb5d.png)
  https://dply.me/vfon1n
  気になった方はインストールしてみてください。
  

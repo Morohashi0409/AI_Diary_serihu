@@ -60,5 +60,6 @@ deploygateにてβ版を公開しました。
 ソースコードは就活時の開発物提出用に添付しました。
 引用してもおそらく機能しないかと思います。
 # 作成者
-* 大学3年諸橋
+* 玉川大学3年諸橋裕平
 * wantedly(https://www.wantedly.com/id/yuuhei_morohashi)
+* メールアドレスmoromoropi@gmail.com
